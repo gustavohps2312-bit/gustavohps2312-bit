@@ -26,7 +26,7 @@
   <a href="https://github.com/gustavohps2312-bit">
     <img src="https://img.shields.io/badge/GitHub-050505?style=for-the-badge&logo=github&logoColor=00ff88" alt="GitHub" />
   </a>
-  <a href="https://www.linkedin.com/in/gustavo-henrique-a90b702ba">
+  <a href="https://www.linkedin.com/in/gustavo-henrique-de-paiva-sousa-a90b702ba/?isSelfProfile=true">
     <img src="https://img.shields.io/badge/LinkedIn-050505?style=for-the-badge&logo=linkedin&logoColor=00ff88" alt="LinkedIn" />
   </a>
 
